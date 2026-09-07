@@ -1,0 +1,33 @@
+# Python 虚拟环境与缓存
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# 本地测试产物（保留在电脑上，不提交到 Git）
+allure-results/
+allure-tesults/
+allure-report/
+screenshots/
+logs/
+*.log
+.coverage
+htmlcov/
+
+# 编辑器本地配置
+.idea/
+.vscode/
+
+# 私密配置与私钥；演示数据 data/accounts.yaml 仍可提交
+.env
+.env.*
+!.env.example
+*.local.yaml
+*.local.yml
+*.pem
+*.key
+*.p12
+*.pfx
