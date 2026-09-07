@@ -1,0 +1,7 @@
+# 新增旅行项目用的固定测试数据。
+# 下拉框的 value 来自页面原始 HTML，不受浏览器中文翻译影响。
+new_item:
+  name_prefix: "FJH_UI_AUTO" # 测试运行时会自动拼接当前时间，避免与旧记录重名
+  category_value: "Cultural"  # 旅行类型：文化
+  cost: "123"                 # 旅行费用：123 美元
+  status_value: "Planned"     # 旅行状态：计划

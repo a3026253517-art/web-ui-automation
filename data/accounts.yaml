@@ -1,0 +1,8 @@
+# 公开练习站提供的演示账号，不包含个人真实账号。
+valid_user:
+  email: "admin@becomeqa.com"
+  password: "admin123"
+
+invalid_user:
+  email: "admin@becomeqa.com"
+  password: "wrong-password"

@@ -1,0 +1,4 @@
+selenium==4.40.0
+pytest==9.0.2
+PyYAML==6.0.3
+allure-pytest==2.15.2

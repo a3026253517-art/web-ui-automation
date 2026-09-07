@@ -1,0 +1,3 @@
+product_search:
+  keyword: "Blue Top"
+  expected_product: "Blue Top"

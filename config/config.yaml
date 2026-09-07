@@ -1,0 +1,3 @@
+base_url: "https://lab.becomeqa.com"
+automation_exercise_products_url: "https://automationexercise.com/products"
+timeout: 10
